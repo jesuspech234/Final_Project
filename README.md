@@ -18,6 +18,7 @@ This project is the final task for the DevSecOps course. It involves the develop
 The project uses Git for version control with the following branch structure:
 - **main:** Production-ready code.
 - **development:** Active development branch.
+- **feature/nueva funcionalidad:** branch where modifications will be put before going to main.
 
 ## 2. Integration and Continuous Delivery (CI/CD)
 
