@@ -29,3 +29,6 @@ jobs:
     - name: Run tests
       run: |
         pytest
+
+    - name: Run Snyk to check vulnerabilities
+      run: snyk test
